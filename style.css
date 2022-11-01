@@ -3,4 +3,8 @@ background-color: #13111c;
 }
 table{
 background-color: #404357;
+transition: 0.4s all;
+}
+table:hover{
+background-color: #2b273d;
 }
