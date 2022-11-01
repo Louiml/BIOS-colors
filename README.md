@@ -4,13 +4,13 @@
     <th>Hex</th>
     <th>Binary</th>
     <th>Color</th>
-    <td style="background-color: #000000"></td>
   </tr>
   <tr>
     <td>0</td>
     <td>0</td>
     <td>0000</td>
     <td>Black</td>
+    <td style="background-color: #000000"></td>
   </tr>
   <tr>
     <td>1</td>
